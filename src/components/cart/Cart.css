@@ -1,0 +1,15 @@
+.cart-container img {
+    width: 100px;
+    margin-right: 10px;
+    border: 2px solid rgb(23, 157, 133);
+    border-radius:5px;
+}
+.cart-container{
+    display: flex;
+    gap: 2px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.item button {
+    display: block;
+}
